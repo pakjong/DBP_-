@@ -1,1 +1,1 @@
-프로젝트 Master 브랜치
+프로젝트 Private 브랜치
